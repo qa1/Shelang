@@ -1,4 +1,4 @@
-# The BangLang Programming Language
+# The SheLang Programming Language
 
-BangLang is an open source programming language that makes it easy to build simple,
+SheLang is an open source programming language that makes it easy to build simple,
 reliable, and efficient software.
